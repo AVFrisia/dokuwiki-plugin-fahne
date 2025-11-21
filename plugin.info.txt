@@ -1,0 +1,7 @@
+base   fahne
+author Johannes Arnold
+email  johannes@rnold.online
+date   2025-11-21
+name   fahne plugin
+desc   Kreeiert Verbindungsfahnen
+url    https://www.dokuwiki.org/plugin:fahne
